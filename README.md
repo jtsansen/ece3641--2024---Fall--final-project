@@ -11,12 +11,23 @@ This project makes use of ROS, Python, and various robotics principles to achiev
 -**Function**: Contains the necessary files and joing angles to perform the water pouring operation, written in Python and interfacing with ROS via the terminal. 
 
 
-## Demonstration Video
-This is the link for the demo video: 
 
-## Demonstration Video
+
+## Presentation Video
 This is the link for the presentation video: 
 
+## Presentation Slides
+This is the link for the presentation slides: 
+
+## Final Report
+This is the link for the final report: 
+
+## Dataset
+This is the link for the source code for the robot arm: 
+
+## Demonstration Video
+This is the link for the demo video: 
+https://www.youtube.com/watch?v=N8Jn8sdYnXk
 
 ## Collaborators
 - User: 'jrkwon' (added as collaborator)
