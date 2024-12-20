@@ -23,11 +23,12 @@ https://docs.google.com/presentation/d/1IJ6B0RWesjc8vq5Y_6ULKExnmjwhFaLLG24em06m
 
 ## Final Report
 This is the link for the final report: 
-
+https://drive.google.com/file/d/1QcaWVqhUilKox2vbS9nGyk3KNXW_XMMp/view?usp=sharing
 
 ## Dataset
 This is the link for the source code for the robot arm: 
 https://github.com/jtsansen/ece3641--2024---Fall--final-project/blob/main/Water_Pouring.py
+
 This is the jupyter notebook link detailing the code:
 https://github.com/jtsansen/ece3641--2024---Fall--final-project/blob/main/ipynb_Jupyter/final-project.ipynb
 
