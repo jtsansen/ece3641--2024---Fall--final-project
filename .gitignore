@@ -1,0 +1,86 @@
+# Ignore system files
+.DS_Store
+.localized
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore specific mp3 files
+1-01 VENOMOUS ECSTASY.mp3
+1-02 RE_UNION.mp3
+1-05 じょん.mp3
+1-06 stellarium 2.mp3
+1-06 stellarium.mp3
+1-07 FACE OF JUSTICE.mp3
+1-08 何処までカッコつけても摩天楼まで.mp3
+
+# Ignore ini files
+BADMAGUS.ini
+
+# Ignore specific directories
+CHESS/
+CarAPI/
+ChessFinalProject/
+College/
+CueBall/
+CueBall 2.zip
+CueBall.zip
+Garageband/
+IMG/
+MIDI_Visualizer/
+MIDI_Visualizer.zip
+Movies/
+NEW_STACK_DATASET/
+SINEGeneratorDial/
+Screenshots/
+
+# Ignore specific screenshot files
+Screenshot (220).png
+Screenshot (221).png
+Screenshot (222).png
+Screenshot (223).png
+Screenshot (224).png
+Screenshot (225).png
+Screenshot (226).png
+Screenshot (227).png
+Screenshot (228).png
+Screenshot (229).png
+Screenshot (230).png
+Screenshot (231).png
+Screenshot (232).png
+Screenshot (233).png
+Screenshot 2024-12-18 at 12.24.41 PM.png
+Screenshot 2024-12-18 at 12.25.28 PM.png
+Screenshot 2024-12-19 at 11.31.35 PM.png
+Screenshot 2024-12-19 at 11.46.09 PM.png
+Screenshot 2024-12-19 at 11.47.11 PM.png
+Screenshot 2024-12-19 at 11.48.03 PM.png
+Screenshot 2024-12-19 at 12.13.01 AM.png
+Screenshot 2024-12-19 at 12.13.07 AM.png
+Screenshot 2024-12-19 at 12.16.26 AM.png
+Screenshot 2024-12-19 at 12.16.41 AM.png
+Screenshot 2024-12-19 at 12.23.26 AM.png
+Screenshot 2024-12-19 at 12.23.45 AM.png
+Screenshot 2024-12-19 at 12.23.55 AM.png
+Screenshot 2024-12-19 at 3.33.32 AM.png
+Screenshot 2024-12-19 at 4.49.09 PM.png
+Screenshot 2024-12-19 at 4.49.28 PM.png
+Screenshot 2024-12-19 at 8.06.37 PM.png
+Screenshot 2024-12-20 at 1.36.12 AM.png
+
+# Ignore audio files
+Stack Exp 700 sings New Recording 1471-2024-09-13.wav
+Stack Exp 700 sings New Recording 1534-2024-09-13.wav
+Stack Exp 700 sings New Recording 1588-2024-09-13.wav
+Stack Exp 700 sings New Recording 1589-2024-09-13.wav
+Stack Exp 700 sings New Recording 1590-2024-09-13.wav
+
+# Ignore other specific files and directories
+ToneGen/
+Untitled-1.ai
+YT/
+json_network copy/
+models copy/
+untitled/
+w1.txt
+w2.txt
